@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Themen des Tages</title>
+    <link>https://www.ardsounds.de/sendung/themen-des-tages/urn:ard:show:82cae2879831698e/</link>
+    <description>Hier hören Sie in gut 25 Minuten die wichtigsten Nachrichten für den Norden. Aus Politik, Wirtschaft, Sport und Kultur. Das Topthema wird aus verschiedenen Perspektiven beleuchtet. In Gesprächen mit Korrespondenten und Interviews mit Experten oder Politikern. Meinungsstark, zuverlässig und verständlich. Von Montag bis Freitag sowie an Sonn- und Feiertagen gibt es hier jeden Abend zuverlässig einen ausführlichen Nachrichtenüberblick.</description>
+    <language>de-DE</language>
+    <ttl>60</ttl>
+    <itunes:author>NDR Info</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://api.ardmediathek.de/image-service/images/urn:ard:image:55c6e0930a7a4f66?w=1400&amp;ch=e840dde3f23f9b12" />
+    <atom:link href="https://storki93.github.io/themen-des-tages/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Sep 2026 17:06:00 +0200</lastBuildDate>
+    <item>
+      <title>Kabinett beschließt Pflegereform</title>
+      <description>Die schwarz-rote Koalition hat sich nun doch auf einen Gesetzentwurf zur Pflege geeinigt. Der Entwurf sieht vor allem Einsparungen vor. Er soll die erwartete Finanzlücke von rund acht Milliarden Euro im kommenden Jahr schließen.</description>
+      <link>https://www.ardsounds.de/episode/urn:ard:episode:fb5d1228454eac1f/</link>
+      <guid isPermaLink="false">urn:ard:publication:fb5d1228454eac1f</guid>
+      <pubDate>Wed, 30 Sep 2026 17:06:00 +0200</pubDate>
+      <enclosure url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0930/AU-20260930-1732-3900.mp3" length="23649453" type="audio/mpeg" />
+      <itunes:duration>1478</itunes:duration>
+    </item>
+    <item>
+      <title>AfD-Wahlsieger Siegmund: "Stelle mich im Dezember zur Wahl"</title>
+      <description>Der AfD-Politiker Ulrich Siegmund will sich nach seinem Sieg bei der Landtagswahl in Sachsen-Anhalt im Dezember als Ministerpräsident zur Wahl stellen. Das kündigte er in Magdeburg nach einer Fraktionssitzung an.</description>
+      <link>https://www.ardsounds.de/episode/urn:ard:episode:7c3e301e1d27117f/</link>
+      <guid isPermaLink="false">urn:ard:publication:7c3e301e1d27117f</guid>
+      <pubDate>Tue, 29 Sep 2026 17:06:00 +0200</pubDate>
+      <enclosure url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0929/AU-20260929-1732-2900.mp3" length="22888749" type="audio/mpeg" />
+      <itunes:duration>1430</itunes:duration>
+    </item>
+    <item>
+      <title>Koalitionsstreit: Ringen um die Pflegereform</title>
+      <description>Schwarz-Rot will eine Reform der Pflege. Die SPD droht aber mit Blockade, wenn es nur zu Kürzungen käme. Warum sind Änderungen unumgänglich?</description>
+      <link>https://www.ardsounds.de/episode/urn:ard:episode:a46b73f777118315/</link>
+      <guid isPermaLink="false">urn:ard:publication:a46b73f777118315</guid>
+      <pubDate>Mon, 28 Sep 2026 17:05:00 +0200</pubDate>
+      <enclosure url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0928/AU-20260928-1730-4500.mp3" length="22861485" type="audio/mpeg" />
+      <itunes:duration>1428</itunes:duration>
+    </item>
+    <item>
+      <title>Stichwahl in Niedersachsen</title>
+      <description> In Niedersachsen laufen die Stichwahlen auf ihre entscheidende Phase zu: Seit einer halben Stunde werden die Stimmen in 123 Kommunen ausgezählt.</description>
+      <link>https://www.ardsounds.de/episode/urn:ard:episode:681ad3a59e4b1b26/</link>
+      <guid isPermaLink="false">urn:ard:publication:681ad3a59e4b1b26</guid>
+      <pubDate>Sun, 27 Sep 2026 18:33:00 +0200</pubDate>
+      <enclosure url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0927/AU-20260927-1900-3400.mp3" length="25188909" type="audio/mpeg" />
+      <itunes:duration>1574</itunes:duration>
+    </item>
+    <item>
+      <title>Bundestag beschließt Neuauflage des Tankrabatts</title>
+      <description>Ab dem 1. Oktober soll Tanken wieder billiger werden. Der Bundestag beschloss mit Merhheit eine Neuauflage des Tankrabatts.</description>
+      <link>https://www.ardsounds.de/episode/urn:ard:episode:a40a13124d313320/</link>
+      <guid isPermaLink="false">urn:ard:publication:a40a13124d313320</guid>
+      <pubDate>Fri, 25 Sep 2026 17:05:00 +0200</pubDate>
+      <enclosure url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0925/AU-20260925-1734-2100.mp3" length="24513837" type="audio/mpeg" />
+      <itunes:duration>1532</itunes:duration>
+    </item>
+    <item>
+      <title>Konjunkturprognose: Wachstum von Dauer?</title>
+      <description>Wirtschaftsinstitute heben ihre Wachstumsprognose an. Steht Deutschland vor einem neuen Aufschwung?</description>
+      <link>https://www.ardsounds.de/episode/urn:ard:episode:3de932699eb765e5/</link>
+      <guid isPermaLink="false">urn:ard:publication:3de932699eb765e5</guid>
+      <pubDate>Thu, 24 Sep 2026 17:06:00 +0200</pubDate>
+      <enclosure url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0924/AU-20260924-1730-5901.mp3" length="21971757" type="audio/mpeg" />
+      <itunes:duration>1373</itunes:duration>
+    </item>
+    <item>
+      <title>Bundesregierung verschärft Kampf gegen Sozialleistungsmissbrauch</title>
+      <description>Behörden sollen im Kampf gegen Sozialbetrug besser aufgestellt werden. Künftig sollen sie z.B. besser gegen "Schrottimmobilien" vorgehen können.</description>
+      <link>https://www.ardsounds.de/episode/urn:ard:episode:d20e40b7b458d55c/</link>
+      <guid isPermaLink="false">urn:ard:publication:d20e40b7b458d55c</guid>
+      <pubDate>Wed, 23 Sep 2026 17:06:00 +0200</pubDate>
+      <enclosure url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0923/AU-20260923-1730-4500.mp3" length="21754029" type="audio/mpeg" />
+      <itunes:duration>1359</itunes:duration>
+    </item>
+    <item>
+      <title>Konsequenzen aus der Landtagswahl Mecklenburg-Vorpommern</title>
+      <description>Weitermachen, aber kein "Weiter so" - das ist die Haltung von Bundeskanzler Merz. Ob seine Unionsfraktion da mitgeht, ist unklar. Die Kritik an ihm reißt nicht ab.</description>
+      <link>https://www.ardsounds.de/episode/urn:ard:episode:2f0917f09d6932c9/</link>
+      <guid isPermaLink="false">urn:ard:publication:2f0917f09d6932c9</guid>
+      <pubDate>Tue, 22 Sep 2026 17:05:00 +0200</pubDate>
+      <enclosure url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0922/AU-20260922-1732-3100.mp3" length="23566509" type="audio/mpeg" />
+      <itunes:duration>1472</itunes:duration>
+    </item>
+    <item>
+      <title>Nach den Wahlen in MV und Berlin</title>
+      <description>Am Tag nach den Wahlen in Mecklenburg-Vorpommern und Berlin sucht die Politik nach Antworten.</description>
+      <link>https://www.ardsounds.de/episode/urn:ard:episode:d0b37614fd17735a/</link>
+      <guid isPermaLink="false">urn:ard:publication:d0b37614fd17735a</guid>
+      <pubDate>Mon, 21 Sep 2026 17:05:00 +0200</pubDate>
+      <enclosure url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0921/AU-20260921-1731-4500.mp3" length="23412525" type="audio/mpeg" />
+      <itunes:duration>1463</itunes:duration>
+    </item>
+    <item>
+      <title>Unter der Nordsee: Erster Klimaspeicher der EU geht in Regelbetrieb</title>
+      <description>Heute ist das “Project Greensand” vor dem dänischen Esbjerg gestartet. Dabei wird aufgefangenes CO2 von Industrieunternehmen in einem leeren Ölfeld unter der dänischen Nordsee gespeichert.</description>
+      <link>https://www.ardsounds.de/episode/urn:ard:episode:330eb50609f5de2b/</link>
+      <guid isPermaLink="false">urn:ard:publication:330eb50609f5de2b</guid>
+      <pubDate>Fri, 18 Sep 2026 17:06:00 +0200</pubDate>
+      <enclosure url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0918/AU-20260918-1731-4000.mp3" length="22915629" type="audio/mpeg" />
+      <itunes:duration>1432</itunes:duration>
+    </item>
+    <item>
+      <title>Klopp nominiert XXL-Kader für Nationalmannschaft</title>
+      <description>Jürgen Klopp hat 44 Spieler für seine ersten vier Spiele als Fußball-Bundestrainer nominiert. Der Kader mit zahlreichen Überraschungen wird nach den ersten beiden Partien nahezu komplett ausgetauscht.</description>
+      <link>https://www.ardsounds.de/episode/urn:ard:episode:cae752fbcc923d7a/</link>
+      <guid isPermaLink="false">urn:ard:publication:cae752fbcc923d7a</guid>
+      <pubDate>Thu, 17 Sep 2026 17:05:00 +0200</pubDate>
+      <enclosure url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0917/AU-20260917-1731-2800.mp3" length="23212077" type="audio/mpeg" />
+      <itunes:duration>1450</itunes:duration>
+    </item>
+    <item>
+      <title>EU bietet Kanada enge Partnerschaft an</title>
+      <description>Kommissionspräsidentin von der Leyen hat Kanada eine assoziierte EU-Mitgliedschaft angeboten. Sie sagte, Europa und Kanada glaubten gemeinsam an die Demokratie. Man wolle die Beziehungen auf das höchstmögliche Niveau heben.</description>
+      <link>https://www.ardsounds.de/episode/urn:ard:episode:35ea552e4d1633b3/</link>
+      <guid isPermaLink="false">urn:ard:publication:35ea552e4d1633b3</guid>
+      <pubDate>Wed, 16 Sep 2026 17:05:00 +0200</pubDate>
+      <enclosure url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0917/AU-20260917-1105-5600.mp3" length="24406317" type="audio/mpeg" />
+      <itunes:duration>1525</itunes:duration>
+    </item>
+    <item>
+      <title>Spritpreisdebatte reloaded: Kanzler kündigt Entlastungen an</title>
+      <description>Die Bundesregierung plant angesichts der hohen Spritpreise kurzfristig finanzielle Entlastungen der Verbraucher. Kanzler Merz kündigte an, die Regierung werde auf die, so wörtlich, Preistreiberei reagieren.</description>
+      <link>https://www.ardsounds.de/episode/urn:ard:episode:511afea0decbe740/</link>
+      <guid isPermaLink="false">urn:ard:publication:511afea0decbe740</guid>
+      <pubDate>Tue, 15 Sep 2026 17:06:00 +0200</pubDate>
+      <enclosure url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0915/AU-20260915-1735-4100.mp3" length="0" type="audio/mpeg" />
+      <itunes:duration>1625</itunes:duration>
+    </item>
+  </channel>
+</rss>
