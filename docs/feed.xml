@@ -15,7 +15,16 @@
     </image>
     <itunes:image href="https://storki93.github.io/themen-des-tages/cover.jpg" />
     <atom:link href="https://storki93.github.io/themen-des-tages/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 30 Sep 2026 17:06:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 17:06:00 +0200</lastBuildDate>
+    <item>
+      <title>Innenminister beraten EU-Asyl- und Migrationspakt</title>
+      <description>Die EU-Mitgliedsländer haben den rechtlichen Weg für umstrittene Abschiebezentren in Drittstaaten endgültig freigemacht. Die Innenminister stimmten dem entsprechenden Gesetz bei ihrem Treffen in Luxemburg formell zu.</description>
+      <link>https://www.ardsounds.de/episode/urn:ard:episode:6f83ce073a982548/</link>
+      <guid isPermaLink="false">urn:ard:publication:6f83ce073a982548</guid>
+      <pubDate>Thu, 01 Oct 2026 17:06:00 +0200</pubDate>
+      <enclosure url="https://ndr-podcast.ard-mcdn.de/progressive/2026/1001/AU-20261001-1731-3600.mp3" length="23250477" type="audio/mpeg" />
+      <itunes:duration>1453</itunes:duration>
+    </item>
     <item>
       <title>Kabinett beschließt Pflegereform</title>
       <description>Die schwarz-rote Koalition hat sich nun doch auf einen Gesetzentwurf zur Pflege geeinigt. Der Entwurf sieht vor allem Einsparungen vor. Er soll die erwartete Finanzlücke von rund acht Milliarden Euro im kommenden Jahr schließen.</description>

@@ -115,5 +115,14 @@
     "link": "https://www.ardsounds.de/episode/urn:ard:episode:fb5d1228454eac1f/",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0930/AU-20260930-1732-3900.mp3",
     "length": "23649453"
+  },
+  "urn:ard:publication:6f83ce073a982548": {
+    "title": "Innenminister beraten EU-Asyl- und Migrationspakt",
+    "description": "Die EU-Mitgliedsländer haben den rechtlichen Weg für umstrittene Abschiebezentren in Drittstaaten endgültig freigemacht. Die Innenminister stimmten dem entsprechenden Gesetz bei ihrem Treffen in Luxemburg formell zu.",
+    "date": "2026-10-01T17:06:00+02:00",
+    "duration": 1453,
+    "link": "https://www.ardsounds.de/episode/urn:ard:episode:6f83ce073a982548/",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1001/AU-20261001-1731-3600.mp3",
+    "length": "23250477"
   }
 }
