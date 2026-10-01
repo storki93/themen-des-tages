@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Refresh a podcast feed using ARD's published episode metadata."""
-import json, os, re, urllib.request, xml.etree.ElementTree as ET
+import json, os, re, shutil, urllib.request, xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from email.utils import format_datetime
 from pathlib import Path
@@ -66,7 +66,11 @@ def main():
     element(channel, 'ttl', 60)
     element(channel, f'{{{ITUNES}}}author', 'NDR Info')
     element(channel, f'{{{ITUNES}}}explicit', 'false')
-    cover = show['image']['url1X1'].replace('{width}', '1400')
+    cover = (os.environ['FEED_URL'].rsplit('/', 1)[0] + '/cover.jpg') if os.getenv('FEED_URL') else show['image']['url1X1'].replace('{width}', '1400')
+    image = ET.SubElement(channel, 'image')
+    element(image, 'url', cover)
+    element(image, 'title', show['title'])
+    element(image, 'link', SOURCE)
     ET.SubElement(channel, f'{{{ITUNES}}}image', href=cover)
     if os.getenv('FEED_URL'):
         ET.SubElement(channel, f'{{{ATOM}}}link', href=os.environ['FEED_URL'], rel='self', type='application/rss+xml')
@@ -81,6 +85,8 @@ def main():
         ET.SubElement(item, 'enclosure', url=episode['audio'], length=str(episode['length']), type='audio/mpeg')
         element(item, f'{{{ITUNES}}}duration', episode['duration'])
     DOCS.mkdir(exist_ok=True)
+    if (ROOT / 'cover.jpg').exists():
+        shutil.copyfile(ROOT / 'cover.jpg', DOCS / 'cover.jpg')
     ET.indent(rss)
     xml = ET.tostring(rss, encoding='utf-8', xml_declaration=True)
     ET.fromstring(xml)
