@@ -8,7 +8,12 @@
     <ttl>60</ttl>
     <itunes:author>NDR Info</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:image href="https://api.ardmediathek.de/image-service/images/urn:ard:image:55c6e0930a7a4f66?w=1400&amp;ch=e840dde3f23f9b12" />
+    <image>
+      <url>https://storki93.github.io/themen-des-tages/cover.jpg</url>
+      <title>Themen des Tages</title>
+      <link>https://www.ardsounds.de/sendung/themen-des-tages/urn:ard:show:82cae2879831698e/</link>
+    </image>
+    <itunes:image href="https://storki93.github.io/themen-des-tages/cover.jpg" />
     <atom:link href="https://storki93.github.io/themen-des-tages/feed.xml" rel="self" type="application/rss+xml" />
     <lastBuildDate>Wed, 30 Sep 2026 17:06:00 +0200</lastBuildDate>
     <item>
