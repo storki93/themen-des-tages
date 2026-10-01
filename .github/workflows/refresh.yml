@@ -1,0 +1,47 @@
+name: Refresh podcast RSS
+on:
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: podcast-feed
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Configure Pages
+        id: pages
+        uses: actions/configure-pages@v5
+      - name: Refresh episodes
+        env:
+          FEED_URL: ${{ steps.pages.outputs.base_url }}/feed.xml
+        run: python generate_feed.py
+      - name: Retain episode history
+        run: |
+          git config user.name "podcast-feed-bot"
+          git config user.email "podcast-feed-bot@users.noreply.github.com"
+          git add episodes.json docs/feed.xml
+          if ! git diff --cached --quiet; then
+            git commit -m "Refresh Themen des Tages episodes"
+            git push
+          fi
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+      - name: Publish feed
+        id: deployment
+        uses: actions/deploy-pages@v4
