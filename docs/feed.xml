@@ -15,7 +15,16 @@
     </image>
     <itunes:image href="https://storki93.github.io/themen-des-tages/cover.jpg" />
     <atom:link href="https://storki93.github.io/themen-des-tages/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 01 Oct 2026 17:06:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 17:06:00 +0200</lastBuildDate>
+    <item>
+      <title>36 Jahre Deutsche Einheit: Ein Fest der Vielfalt</title>
+      <description>In diesem Jahr richtet Bremen die Feierlichkeiten zur Deutschen Einheit aus. Das Bürgerfest soll Zusammenhalt und Zukunftsfreude symbolisieren. Und was denken die Jungen, die das geteilte Deutschland nicht mehr kennen?</description>
+      <link>https://www.ardsounds.de/episode/urn:ard:episode:bbe176db3f105b21/</link>
+      <guid isPermaLink="false">urn:ard:publication:bbe176db3f105b21</guid>
+      <pubDate>Fri, 02 Oct 2026 17:06:00 +0200</pubDate>
+      <enclosure url="https://ndr-podcast.ard-mcdn.de/progressive/2026/1002/AU-20261002-1737-0600.mp3" length="22154925" type="audio/mpeg" />
+      <itunes:duration>1384</itunes:duration>
+    </item>
     <item>
       <title>Innenminister beraten EU-Asyl- und Migrationspakt</title>
       <description>Die EU-Mitgliedsländer haben den rechtlichen Weg für umstrittene Abschiebezentren in Drittstaaten endgültig freigemacht. Die Innenminister stimmten dem entsprechenden Gesetz bei ihrem Treffen in Luxemburg formell zu.</description>

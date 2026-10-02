@@ -124,5 +124,14 @@
     "link": "https://www.ardsounds.de/episode/urn:ard:episode:6f83ce073a982548/",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1001/AU-20261001-1731-3600.mp3",
     "length": "23250477"
+  },
+  "urn:ard:publication:bbe176db3f105b21": {
+    "title": "36 Jahre Deutsche Einheit: Ein Fest der Vielfalt",
+    "description": "In diesem Jahr richtet Bremen die Feierlichkeiten zur Deutschen Einheit aus. Das Bürgerfest soll Zusammenhalt und Zukunftsfreude symbolisieren. Und was denken die Jungen, die das geteilte Deutschland nicht mehr kennen?",
+    "date": "2026-10-02T17:06:00+02:00",
+    "duration": 1384,
+    "link": "https://www.ardsounds.de/episode/urn:ard:episode:bbe176db3f105b21/",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1002/AU-20261002-1737-0600.mp3",
+    "length": "22154925"
   }
 }
