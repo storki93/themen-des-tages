@@ -15,7 +15,16 @@
     </image>
     <itunes:image href="https://storki93.github.io/themen-des-tages/cover.jpg" />
     <atom:link href="https://storki93.github.io/themen-des-tages/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 02 Oct 2026 17:06:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 18:34:00 +0200</lastBuildDate>
+    <item>
+      <title>Festakt zum Tag der Deutschen Einheit</title>
+      <description>Beim Festakt zum Tag der Deutschen Einheit in Bremen hat Bundespräsident Steinmeier den Zusammenhalt in der Gesellschaft beschworen. Zugleich warnte er vor einer zunehmenden Bedrohung der Demokratie durch populistische Parteien und Extremismus.</description>
+      <link>https://www.ardsounds.de/episode/urn:ard:episode:6eccf9445fb5c155/</link>
+      <guid isPermaLink="false">urn:ard:publication:6eccf9445fb5c155</guid>
+      <pubDate>Sat, 03 Oct 2026 18:34:00 +0200</pubDate>
+      <enclosure url="https://ndr-podcast.ard-mcdn.de/progressive/2026/1003/AU-20261003-1901-0100.mp3" length="23000877" type="audio/mpeg" />
+      <itunes:duration>1437</itunes:duration>
+    </item>
     <item>
       <title>36 Jahre Deutsche Einheit: Ein Fest der Vielfalt</title>
       <description>In diesem Jahr richtet Bremen die Feierlichkeiten zur Deutschen Einheit aus. Das Bürgerfest soll Zusammenhalt und Zukunftsfreude symbolisieren. Und was denken die Jungen, die das geteilte Deutschland nicht mehr kennen?</description>

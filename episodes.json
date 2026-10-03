@@ -133,5 +133,14 @@
     "link": "https://www.ardsounds.de/episode/urn:ard:episode:bbe176db3f105b21/",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1002/AU-20261002-1737-0600.mp3",
     "length": "22154925"
+  },
+  "urn:ard:publication:6eccf9445fb5c155": {
+    "title": "Festakt zum Tag der Deutschen Einheit",
+    "description": "Beim Festakt zum Tag der Deutschen Einheit in Bremen hat Bundespräsident Steinmeier den Zusammenhalt in der Gesellschaft beschworen. Zugleich warnte er vor einer zunehmenden Bedrohung der Demokratie durch populistische Parteien und Extremismus.",
+    "date": "2026-10-03T18:34:00+02:00",
+    "duration": 1437,
+    "link": "https://www.ardsounds.de/episode/urn:ard:episode:6eccf9445fb5c155/",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1003/AU-20261003-1901-0100.mp3",
+    "length": "23000877"
   }
 }
