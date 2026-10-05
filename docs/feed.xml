@@ -15,10 +15,19 @@
     </image>
     <itunes:image href="https://storki93.github.io/themen-des-tages/cover.jpg" />
     <atom:link href="https://storki93.github.io/themen-des-tages/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 04 Oct 2026 18:32:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 17:05:00 +0200</lastBuildDate>
+    <item>
+      <title>Entscheidung für Emden - ostfriesische Stadt bekommt Marinehafen</title>
+      <description>Deutschland bekommt neben Wilhelmshaven einen zweiten Marine-Stützpunkt an der Nordsee - und zwar in Emden. Der neue Stützpunkt soll Anfang der 2030er Jahre fertig sein. Bis zu 2.000 Dienstposten könnten in Emden langfristig entstehen. </description>
+      <link>https://www.ardsounds.de/episode/urn:ard:episode:86ce9cbaf1325a99/</link>
+      <guid isPermaLink="false">urn:ard:publication:86ce9cbaf1325a99</guid>
+      <pubDate>Mon, 05 Oct 2026 17:05:00 +0200</pubDate>
+      <enclosure url="https://ndr-podcast.ard-mcdn.de/progressive/2026/1005/AU-20261005-1731-4500.mp3" length="23531181" type="audio/mpeg" />
+      <itunes:duration>1470</itunes:duration>
+    </item>
     <item>
       <title>Solidaritätsbesuch von Kanzler Merz in Kiew</title>
-      <description>Bundeskanzler Merz hat der Ukraine weitere Unterstützung zugesichert. Zugleich appellierte er an Russlands Präsident Putin, mit dem sinnlosen Krieg aufzuhören und die Angriffe auf die Zivilbevölkerung einzustellen.</description>
+      <description>Bundeskanzler Friedrich Merz hat der Ukraine weitere Unterstützung zugesichert. Zugleich appellierte er an Russlands Präsident Putin, mit dem sinnlosen Krieg aufzuhören und die Angriffe auf die Zivilbevölkerung einzustellen.</description>
       <link>https://www.ardsounds.de/episode/urn:ard:episode:fbf3467664a62332/</link>
       <guid isPermaLink="false">urn:ard:publication:fbf3467664a62332</guid>
       <pubDate>Sun, 04 Oct 2026 18:32:00 +0200</pubDate>

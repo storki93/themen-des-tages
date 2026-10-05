@@ -145,11 +145,20 @@
   },
   "urn:ard:publication:fbf3467664a62332": {
     "title": "Solidaritätsbesuch von Kanzler Merz in Kiew",
-    "description": "Bundeskanzler Merz hat der Ukraine weitere Unterstützung zugesichert. Zugleich appellierte er an Russlands Präsident Putin, mit dem sinnlosen Krieg aufzuhören und die Angriffe auf die Zivilbevölkerung einzustellen.",
+    "description": "Bundeskanzler Friedrich Merz hat der Ukraine weitere Unterstützung zugesichert. Zugleich appellierte er an Russlands Präsident Putin, mit dem sinnlosen Krieg aufzuhören und die Angriffe auf die Zivilbevölkerung einzustellen.",
     "date": "2026-10-04T18:32:00+02:00",
     "duration": 1587,
     "link": "https://www.ardsounds.de/episode/urn:ard:episode:fbf3467664a62332/",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1004/AU-20261004-1902-1000.mp3",
     "length": "25393965"
+  },
+  "urn:ard:publication:86ce9cbaf1325a99": {
+    "title": "Entscheidung für Emden - ostfriesische Stadt bekommt Marinehafen",
+    "description": "Deutschland bekommt neben Wilhelmshaven einen zweiten Marine-Stützpunkt an der Nordsee - und zwar in Emden. Der neue Stützpunkt soll Anfang der 2030er Jahre fertig sein. Bis zu 2.000 Dienstposten könnten in Emden langfristig entstehen. ",
+    "date": "2026-10-05T17:05:00+02:00",
+    "duration": 1470,
+    "link": "https://www.ardsounds.de/episode/urn:ard:episode:86ce9cbaf1325a99/",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1005/AU-20261005-1731-4500.mp3",
+    "length": "23531181"
   }
 }
