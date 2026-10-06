@@ -15,7 +15,16 @@
     </image>
     <itunes:image href="https://storki93.github.io/themen-des-tages/cover.jpg" />
     <atom:link href="https://storki93.github.io/themen-des-tages/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 05 Oct 2026 17:05:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 17:06:00 +0200</lastBuildDate>
+    <item>
+      <title>AfD-Politiker ist Landtagspräsident</title>
+      <description>Tobias Rausch ist neuer Landtagspräsident in Sachsen-Anhalt. Der 35-Jährige wurde im ersten Wahlgang in das höchste Amt des Bundeslandes gewählt.</description>
+      <link>https://www.ardsounds.de/episode/urn:ard:episode:1cb15a3c7c54db80/</link>
+      <guid isPermaLink="false">urn:ard:publication:1cb15a3c7c54db80</guid>
+      <pubDate>Tue, 06 Oct 2026 17:06:00 +0200</pubDate>
+      <enclosure url="https://ndr-podcast.ard-mcdn.de/progressive/2026/1006/AU-20261006-1734-5300.mp3" length="26061741" type="audio/mpeg" />
+      <itunes:duration>1628</itunes:duration>
+    </item>
     <item>
       <title>Entscheidung für Emden - ostfriesische Stadt bekommt Marinehafen</title>
       <description>Deutschland bekommt neben Wilhelmshaven einen zweiten Marine-Stützpunkt an der Nordsee - und zwar in Emden. Der neue Stützpunkt soll Anfang der 2030er Jahre fertig sein. Bis zu 2.000 Dienstposten könnten in Emden langfristig entstehen. </description>

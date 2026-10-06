@@ -160,5 +160,14 @@
     "link": "https://www.ardsounds.de/episode/urn:ard:episode:86ce9cbaf1325a99/",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1005/AU-20261005-1731-4500.mp3",
     "length": "23531181"
+  },
+  "urn:ard:publication:1cb15a3c7c54db80": {
+    "title": "AfD-Politiker ist Landtagspräsident",
+    "description": "Tobias Rausch ist neuer Landtagspräsident in Sachsen-Anhalt. Der 35-Jährige wurde im ersten Wahlgang in das höchste Amt des Bundeslandes gewählt.",
+    "date": "2026-10-06T17:06:00+02:00",
+    "duration": 1628,
+    "link": "https://www.ardsounds.de/episode/urn:ard:episode:1cb15a3c7c54db80/",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1006/AU-20261006-1734-5300.mp3",
+    "length": "26061741"
   }
 }
