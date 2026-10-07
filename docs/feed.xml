@@ -15,7 +15,16 @@
     </image>
     <itunes:image href="https://storki93.github.io/themen-des-tages/cover.jpg" />
     <atom:link href="https://storki93.github.io/themen-des-tages/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 06 Oct 2026 17:06:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 17:06:00 +0200</lastBuildDate>
+    <item>
+      <title>Koalitionsausschuss nach dem AfD-Erfolg in Sachsen-Anhalt</title>
+      <description>Die schrittweise Regierungsübernahme der AfD in Sachsen-Anhalt birgt Sprengstoff für die Berliner Koalitition: Stimmten CDUler mit der AfD?</description>
+      <link>https://www.ardsounds.de/episode/urn:ard:episode:81b09931439863ed/</link>
+      <guid isPermaLink="false">urn:ard:publication:81b09931439863ed</guid>
+      <pubDate>Wed, 07 Oct 2026 17:06:00 +0200</pubDate>
+      <enclosure url="https://ndr-podcast.ard-mcdn.de/progressive/2026/1007/AU-20261007-1732-2600.mp3" length="24200109" type="audio/mpeg" />
+      <itunes:duration>1512</itunes:duration>
+    </item>
     <item>
       <title>AfD-Politiker ist Landtagspräsident</title>
       <description>Tobias Rausch ist neuer Landtagspräsident in Sachsen-Anhalt. Der 35-Jährige wurde im ersten Wahlgang in das höchste Amt des Bundeslandes gewählt.</description>
