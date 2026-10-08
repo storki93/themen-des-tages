@@ -178,5 +178,14 @@
     "link": "https://www.ardsounds.de/episode/urn:ard:episode:81b09931439863ed/",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1007/AU-20261007-1732-2600.mp3",
     "length": "24200109"
+  },
+  "urn:ard:publication:23fc096011f4aa1d": {
+    "title": "Debatte im Bundestag über Einkommensteuerreform",
+    "description": "Viel Kritik wurde im Bundestag an Klingbeils Entwurf der Einkommensteuerreform geübt. Grünen und Linken gehen die Pläne nicht weit genug.",
+    "date": "2026-10-08T17:06:00+02:00",
+    "duration": 1473,
+    "link": "https://www.ardsounds.de/episode/urn:ard:episode:23fc096011f4aa1d/",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1008/AU-20261008-1732-3400.mp3",
+    "length": "23568429"
   }
 }
