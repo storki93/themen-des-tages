@@ -15,7 +15,16 @@
     </image>
     <itunes:image href="https://storki93.github.io/themen-des-tages/cover.jpg" />
     <atom:link href="https://storki93.github.io/themen-des-tages/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 08 Oct 2026 17:06:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 17:05:00 +0200</lastBuildDate>
+    <item>
+      <title>Navi Pillay: Friedensnobelpreis für Kampf gegen Kriegsverbrechen</title>
+      <description>Die südafrikanische Juristin Navanethem Pillay wird in diesem Jahr mit Friedensnobelpreis ausgezeichnet. Das norwegischen Nobelkomitee ehrt sie damit für ihren Einsatz gegen Kriegsverbrechen und Völkermord.</description>
+      <link>https://www.ardsounds.de/episode/urn:ard:episode:f57f638acb456dd9/</link>
+      <guid isPermaLink="false">urn:ard:publication:f57f638acb456dd9</guid>
+      <pubDate>Fri, 09 Oct 2026 17:05:00 +0200</pubDate>
+      <enclosure url="https://ndr-podcast.ard-mcdn.de/progressive/2026/1009/AU-20261009-1733-4400.mp3" length="25039917" type="audio/mpeg" />
+      <itunes:duration>1564</itunes:duration>
+    </item>
     <item>
       <title>Debatte im Bundestag über Einkommensteuerreform</title>
       <description>Viel Kritik wurde im Bundestag an Klingbeils Entwurf der Einkommensteuerreform geübt. Grünen und Linken gehen die Pläne nicht weit genug.</description>

@@ -187,5 +187,14 @@
     "link": "https://www.ardsounds.de/episode/urn:ard:episode:23fc096011f4aa1d/",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1008/AU-20261008-1732-3400.mp3",
     "length": "23568429"
+  },
+  "urn:ard:publication:f57f638acb456dd9": {
+    "title": "Navi Pillay: Friedensnobelpreis für Kampf gegen Kriegsverbrechen",
+    "description": "Die südafrikanische Juristin Navanethem Pillay wird in diesem Jahr mit Friedensnobelpreis ausgezeichnet. Das norwegischen Nobelkomitee ehrt sie damit für ihren Einsatz gegen Kriegsverbrechen und Völkermord.",
+    "date": "2026-10-09T17:05:00+02:00",
+    "duration": 1564,
+    "link": "https://www.ardsounds.de/episode/urn:ard:episode:f57f638acb456dd9/",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1009/AU-20261009-1733-4400.mp3",
+    "length": "25039917"
   }
 }
