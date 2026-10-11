@@ -15,7 +15,16 @@
     </image>
     <itunes:image href="https://storki93.github.io/themen-des-tages/cover.jpg" />
     <atom:link href="https://storki93.github.io/themen-des-tages/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 09 Oct 2026 17:05:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 18:32:00 +0200</lastBuildDate>
+    <item>
+      <title>Tacheles reden mit Friedrich Merz: Die Klausurtagung des CDU-Präsidiums</title>
+      <description>Was kann die Krisensitzung des CDU-Präsidiums bringen? Außerdem in den Themen des Tages: Anschlagspläne in Polen, Huthi-Angriffe in Saudi-Arabien und die Hamburger Woche der Presefreiheit.</description>
+      <link>https://www.ardsounds.de/episode/urn:ard:episode:2da08c267230111c/</link>
+      <guid isPermaLink="false">urn:ard:publication:2da08c267230111c</guid>
+      <pubDate>Sun, 11 Oct 2026 18:32:00 +0200</pubDate>
+      <enclosure url="https://ndr-podcast.ard-mcdn.de/progressive/2026/1011/AU-20261011-1900-4800.mp3" length="26108589" type="audio/mpeg" />
+      <itunes:duration>1631</itunes:duration>
+    </item>
     <item>
       <title>Navi Pillay: Friedensnobelpreis für Kampf gegen Kriegsverbrechen</title>
       <description>Die südafrikanische Juristin Navanethem Pillay wird in diesem Jahr mit dem Friedensnobelpreis ausgezeichnet. Das norwegischen Nobelkomitee ehrt sie damit für ihren Einsatz gegen Kriegsverbrechen und Völkermord.</description>

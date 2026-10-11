@@ -196,5 +196,14 @@
     "link": "https://www.ardsounds.de/episode/urn:ard:episode:f57f638acb456dd9/",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1009/AU-20261009-1733-4400.mp3",
     "length": "25039917"
+  },
+  "urn:ard:publication:2da08c267230111c": {
+    "title": "Tacheles reden mit Friedrich Merz: Die Klausurtagung des CDU-Präsidiums",
+    "description": "Was kann die Krisensitzung des CDU-Präsidiums bringen? Außerdem in den Themen des Tages: Anschlagspläne in Polen, Huthi-Angriffe in Saudi-Arabien und die Hamburger Woche der Presefreiheit.",
+    "date": "2026-10-11T18:32:00+02:00",
+    "duration": 1631,
+    "link": "https://www.ardsounds.de/episode/urn:ard:episode:2da08c267230111c/",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1011/AU-20261011-1900-4800.mp3",
+    "length": "26108589"
   }
 }
