@@ -15,7 +15,16 @@
     </image>
     <itunes:image href="https://storki93.github.io/themen-des-tages/cover.jpg" />
     <atom:link href="https://storki93.github.io/themen-des-tages/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 11 Oct 2026 18:32:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 17:04:00 +0200</lastBuildDate>
+    <item>
+      <title>Nach Trauerfall und öffentlichen Attacken: Bas tritt zurück</title>
+      <description>Der Rücktritt von Arbeitsministerin Bärbel Bas sagt viel über das Miteinander im politischen Berlin aus. Die SPD-Politikerin hatte ihre Ämter niedergelegt, nachdem sie trotz eines Trauerfalls weiter persönlich attackiert wurde.</description>
+      <link>https://www.ardsounds.de/episode/urn:ard:episode:dda7c5c67c906150/</link>
+      <guid isPermaLink="false">urn:ard:publication:dda7c5c67c906150</guid>
+      <pubDate>Mon, 12 Oct 2026 17:04:00 +0200</pubDate>
+      <enclosure url="https://ndr-podcast.ard-mcdn.de/progressive/2026/1012/AU-20261012-1732-3100.mp3" length="25100973" type="audio/mpeg" />
+      <itunes:duration>1568</itunes:duration>
+    </item>
     <item>
       <title>Tacheles reden mit Friedrich Merz: Die Klausurtagung des CDU-Präsidiums</title>
       <description>Was kann die Krisensitzung des CDU-Präsidiums bringen? Außerdem in den Themen des Tages: Anschlagspläne in Polen, Huthi-Angriffe in Saudi-Arabien und die Hamburger Woche der Presefreiheit.</description>

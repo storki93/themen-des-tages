@@ -205,5 +205,14 @@
     "link": "https://www.ardsounds.de/episode/urn:ard:episode:2da08c267230111c/",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1011/AU-20261011-1900-4800.mp3",
     "length": "26108589"
+  },
+  "urn:ard:publication:dda7c5c67c906150": {
+    "title": "Nach Trauerfall und öffentlichen Attacken: Bas tritt zurück",
+    "description": "Der Rücktritt von Arbeitsministerin Bärbel Bas sagt viel über das Miteinander im politischen Berlin aus. Die SPD-Politikerin hatte ihre Ämter niedergelegt, nachdem sie trotz eines Trauerfalls weiter persönlich attackiert wurde.",
+    "date": "2026-10-12T17:04:00+02:00",
+    "duration": 1568,
+    "link": "https://www.ardsounds.de/episode/urn:ard:episode:dda7c5c67c906150/",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1012/AU-20261012-1732-3100.mp3",
+    "length": "25100973"
   }
 }
