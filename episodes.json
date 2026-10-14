@@ -223,5 +223,14 @@
     "link": "https://www.ardsounds.de/episode/urn:ard:episode:1025a68a73b15b9b/",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1013/AU-20261013-1731-3900.mp3",
     "length": "22683693"
+  },
+  "urn:ard:publication:4467ca3e5c1b5900": {
+    "title": "Nord-Stream-Prozess in Hamburg gestartet",
+    "description": "Es ist der erste Strafprozess zur Sprengung der Nord-Stream-Pipelines in der Ostsee im September 2022. Vor dem Oberlandesgericht schwieg der Angeklagte am ersten Verhandlungstag.",
+    "date": "2026-10-14T17:06:00+02:00",
+    "duration": 1556,
+    "link": "https://www.ardsounds.de/episode/urn:ard:episode:4467ca3e5c1b5900/",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1014/AU-20261014-1733-4000.mp3",
+    "length": "24903213"
   }
 }

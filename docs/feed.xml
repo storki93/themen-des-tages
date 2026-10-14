@@ -15,7 +15,16 @@
     </image>
     <itunes:image href="https://storki93.github.io/themen-des-tages/cover.jpg" />
     <atom:link href="https://storki93.github.io/themen-des-tages/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 13 Oct 2026 17:05:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 17:06:00 +0200</lastBuildDate>
+    <item>
+      <title>Nord-Stream-Prozess in Hamburg gestartet</title>
+      <description>Es ist der erste Strafprozess zur Sprengung der Nord-Stream-Pipelines in der Ostsee im September 2022. Vor dem Oberlandesgericht schwieg der Angeklagte am ersten Verhandlungstag.</description>
+      <link>https://www.ardsounds.de/episode/urn:ard:episode:4467ca3e5c1b5900/</link>
+      <guid isPermaLink="false">urn:ard:publication:4467ca3e5c1b5900</guid>
+      <pubDate>Wed, 14 Oct 2026 17:06:00 +0200</pubDate>
+      <enclosure url="https://ndr-podcast.ard-mcdn.de/progressive/2026/1014/AU-20261014-1733-4000.mp3" length="24903213" type="audio/mpeg" />
+      <itunes:duration>1556</itunes:duration>
+    </item>
     <item>
       <title>Umbruch bei der SPD: Wie geht's weiter mit der Sozialdemokratie?</title>
       <description>Die SPD hat einen neuen Bundesarbeitsminister, bald auch eine neue Co-Vorsitzende? Eins ist klar: die SPD muss sich verändern.</description>
