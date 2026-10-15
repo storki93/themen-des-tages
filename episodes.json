@@ -232,5 +232,14 @@
     "link": "https://www.ardsounds.de/episode/urn:ard:episode:4467ca3e5c1b5900/",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1014/AU-20261014-1733-4000.mp3",
     "length": "24903213"
+  },
+  "urn:ard:publication:bdb58f01b07f6351": {
+    "title": "Schneller und besser? Reform der Notfallversorgung",
+    "description": "Der Bundestag hat die Reform der Notfallversorgung beschlossen. Ziel ist es, Notdienst, Notaufnahmen und Rettungsdienste mehr aufeinander abzustimmen.",
+    "date": "2026-10-15T17:05:00+02:00",
+    "duration": 1530,
+    "link": "https://www.ardsounds.de/episode/urn:ard:episode:bdb58f01b07f6351/",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1015/AU-20261015-1732-4000.mp3",
+    "length": "24493101"
   }
 }

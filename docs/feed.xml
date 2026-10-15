@@ -15,7 +15,16 @@
     </image>
     <itunes:image href="https://storki93.github.io/themen-des-tages/cover.jpg" />
     <atom:link href="https://storki93.github.io/themen-des-tages/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 14 Oct 2026 17:06:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 17:05:00 +0200</lastBuildDate>
+    <item>
+      <title>Schneller und besser? Reform der Notfallversorgung</title>
+      <description>Der Bundestag hat die Reform der Notfallversorgung beschlossen. Ziel ist es, Notdienst, Notaufnahmen und Rettungsdienste mehr aufeinander abzustimmen.</description>
+      <link>https://www.ardsounds.de/episode/urn:ard:episode:bdb58f01b07f6351/</link>
+      <guid isPermaLink="false">urn:ard:publication:bdb58f01b07f6351</guid>
+      <pubDate>Thu, 15 Oct 2026 17:05:00 +0200</pubDate>
+      <enclosure url="https://ndr-podcast.ard-mcdn.de/progressive/2026/1015/AU-20261015-1732-4000.mp3" length="24493101" type="audio/mpeg" />
+      <itunes:duration>1530</itunes:duration>
+    </item>
     <item>
       <title>Nord-Stream-Prozess in Hamburg gestartet</title>
       <description>Es ist der erste Strafprozess zur Sprengung der Nord-Stream-Pipelines in der Ostsee im September 2022. Vor dem Oberlandesgericht schwieg der Angeklagte am ersten Verhandlungstag.</description>
