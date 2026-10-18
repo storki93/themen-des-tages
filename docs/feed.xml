@@ -15,7 +15,16 @@
     </image>
     <itunes:image href="https://storki93.github.io/themen-des-tages/cover.jpg" />
     <atom:link href="https://storki93.github.io/themen-des-tages/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 16 Oct 2026 17:06:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 18:32:00 +0200</lastBuildDate>
+    <item>
+      <title>Chaos und Gewalt auf Frankreichs Straßen</title>
+      <description>In Frankreich gab es teilweise gewalttätige Proteste, Gewaltorgien, Zerstörungen und Plünderungen bei Protesten gegen hohe Lebenshaltungskosten und Missstände im Bildungs- und im Gesundheitswesen.</description>
+      <link>https://www.ardsounds.de/episode/urn:ard:episode:a3d63cad6424f0db/</link>
+      <guid isPermaLink="false">urn:ard:publication:a3d63cad6424f0db</guid>
+      <pubDate>Sun, 18 Oct 2026 18:32:00 +0200</pubDate>
+      <enclosure url="https://ndr-podcast.ard-mcdn.de/progressive/2026/1018/AU-20261018-1901-3700.mp3" length="25819437" type="audio/mpeg" />
+      <itunes:duration>1613</itunes:duration>
+    </item>
     <item>
       <title>Die Frühstart-Rente kommt</title>
       <description>Der Bundestag hat die sogenannte Frühstartrente beschlossen. Kinder ab sechs Jahren sollen zehn Euro monatlich vom Staat erhalten. Das Geld wird am Kapitalmarkt angelegt und kann privat aufgestockt werden.</description>

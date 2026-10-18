@@ -250,5 +250,14 @@
     "link": "https://www.ardsounds.de/episode/urn:ard:episode:ae230495e6200f3f/",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1016/AU-20261016-1732-1800.mp3",
     "length": "23105325"
+  },
+  "urn:ard:publication:a3d63cad6424f0db": {
+    "title": "Chaos und Gewalt auf Frankreichs Straßen",
+    "description": "In Frankreich gab es teilweise gewalttätige Proteste, Gewaltorgien, Zerstörungen und Plünderungen bei Protesten gegen hohe Lebenshaltungskosten und Missstände im Bildungs- und im Gesundheitswesen.",
+    "date": "2026-10-18T18:32:00+02:00",
+    "duration": 1613,
+    "link": "https://www.ardsounds.de/episode/urn:ard:episode:a3d63cad6424f0db/",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1018/AU-20261018-1901-3700.mp3",
+    "length": "25819437"
   }
 }
