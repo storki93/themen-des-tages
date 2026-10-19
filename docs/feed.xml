@@ -15,7 +15,16 @@
     </image>
     <itunes:image href="https://storki93.github.io/themen-des-tages/cover.jpg" />
     <atom:link href="https://storki93.github.io/themen-des-tages/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 18 Oct 2026 18:32:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 17:06:00 +0200</lastBuildDate>
+    <item>
+      <title>Ausschreitungen in Frankreich</title>
+      <description>Nach den gewalttätigen Protesten am Wochenende ist Frankreichs Regierung mit der Frage beschäftigt, wie es dazu kommen konnte.</description>
+      <link>https://www.ardsounds.de/episode/urn:ard:episode:c1fa6f252aaa04b1/</link>
+      <guid isPermaLink="false">urn:ard:publication:c1fa6f252aaa04b1</guid>
+      <pubDate>Mon, 19 Oct 2026 17:06:00 +0200</pubDate>
+      <enclosure url="https://ndr-podcast.ard-mcdn.de/progressive/2026/1019/AU-20261019-1731-4500.mp3" length="23727021" type="audio/mpeg" />
+      <itunes:duration>1482</itunes:duration>
+    </item>
     <item>
       <title>Chaos und Gewalt auf Frankreichs Straßen</title>
       <description>In Frankreich gab es teilweise gewalttätige Proteste, Wutorgien, Zerstörungen und Plünderungen bei Demonstrationen gegen hohe Lebenshaltungskosten und Missstände im Bildungs- und im Gesundheitswesen.</description>

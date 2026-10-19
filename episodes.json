@@ -259,5 +259,14 @@
     "link": "https://www.ardsounds.de/episode/urn:ard:episode:a3d63cad6424f0db/",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1018/AU-20261018-1901-3700.mp3",
     "length": "25819437"
+  },
+  "urn:ard:publication:c1fa6f252aaa04b1": {
+    "title": "Ausschreitungen in Frankreich",
+    "description": "Nach den gewalttätigen Protesten am Wochenende ist Frankreichs Regierung mit der Frage beschäftigt, wie es dazu kommen konnte.",
+    "date": "2026-10-19T17:06:00+02:00",
+    "duration": 1482,
+    "link": "https://www.ardsounds.de/episode/urn:ard:episode:c1fa6f252aaa04b1/",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1019/AU-20261019-1731-4500.mp3",
+    "length": "23727021"
   }
 }
