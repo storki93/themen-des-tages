@@ -268,5 +268,14 @@
     "link": "https://www.ardsounds.de/episode/urn:ard:episode:c1fa6f252aaa04b1/",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1019/AU-20261019-1731-4500.mp3",
     "length": "23727021"
+  },
+  "urn:ard:publication:66a25dd6fc133ab0": {
+    "title": "Investitionsgipfel in Berlin",
+    "description": "Ziel der Bundesregierung ist es, mehr private Investoren nach Deutschland zu locken.",
+    "date": "2026-10-20T17:05:00+02:00",
+    "duration": 1509,
+    "link": "https://www.ardsounds.de/episode/urn:ard:episode:66a25dd6fc133ab0/",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1020/AU-20261020-1732-0300.mp3",
+    "length": "24148269"
   }
 }

@@ -15,7 +15,16 @@
     </image>
     <itunes:image href="https://storki93.github.io/themen-des-tages/cover.jpg" />
     <atom:link href="https://storki93.github.io/themen-des-tages/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 19 Oct 2026 17:06:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 17:05:00 +0200</lastBuildDate>
+    <item>
+      <title>Investitionsgipfel in Berlin</title>
+      <description>Ziel der Bundesregierung ist es, mehr private Investoren nach Deutschland zu locken.</description>
+      <link>https://www.ardsounds.de/episode/urn:ard:episode:66a25dd6fc133ab0/</link>
+      <guid isPermaLink="false">urn:ard:publication:66a25dd6fc133ab0</guid>
+      <pubDate>Tue, 20 Oct 2026 17:05:00 +0200</pubDate>
+      <enclosure url="https://ndr-podcast.ard-mcdn.de/progressive/2026/1020/AU-20261020-1732-0300.mp3" length="24148269" type="audio/mpeg" />
+      <itunes:duration>1509</itunes:duration>
+    </item>
     <item>
       <title>Ausschreitungen in Frankreich</title>
       <description>Nach den gewalttätigen Protesten am Wochenende ist Frankreichs Regierung mit der Frage beschäftigt, wie es dazu kommen konnte.</description>
