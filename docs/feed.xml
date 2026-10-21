@@ -15,7 +15,16 @@
     </image>
     <itunes:image href="https://storki93.github.io/themen-des-tages/cover.jpg" />
     <atom:link href="https://storki93.github.io/themen-des-tages/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 20 Oct 2026 17:05:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 17:06:00 +0200</lastBuildDate>
+    <item>
+      <title>Bericht des UN-Umweltprogramms: Erde steuert auf 2,8 Erwärmung zu</title>
+      <description>Die Folgen der Erderwämung sind verheerend. Das eigentlich vereinbarte 1,5-Grad-Limit wird ziemlich sicher gerissen. Außerdem in den "Themen des Tages": Verkehrsminister beraten über Deutschlandticket und US-Vermittler Wittkoff in St. Petersburg.</description>
+      <link>https://www.ardsounds.de/episode/urn:ard:episode:34abce08d4dc72a6/</link>
+      <guid isPermaLink="false">urn:ard:publication:34abce08d4dc72a6</guid>
+      <pubDate>Wed, 21 Oct 2026 17:06:00 +0200</pubDate>
+      <enclosure url="https://ndr-podcast.ard-mcdn.de/progressive/2026/1021/AU-20261021-1734-4600.mp3" length="24724269" type="audio/mpeg" />
+      <itunes:duration>1545</itunes:duration>
+    </item>
     <item>
       <title>Investitionsgipfel in Berlin</title>
       <description>Ziel der Bundesregierung ist es, mehr private Investoren nach Deutschland zu locken. Bei dem Treffen haben rund 200 Unternehmer die Möglichkeit mit Spitzenpolitikern ins Gespräch zu kommen.</description>
