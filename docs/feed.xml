@@ -15,7 +15,16 @@
     </image>
     <itunes:image href="https://storki93.github.io/themen-des-tages/cover.jpg" />
     <atom:link href="https://storki93.github.io/themen-des-tages/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 21 Oct 2026 17:06:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 17:06:00 +0200</lastBuildDate>
+    <item>
+      <title>Finanzminister stellt neue Steuerschätzung vor</title>
+      <description>Der Arbeitskreis Steuerschätzung hat seine neue Prognose vorgelegt. Dabei geht es um die Steuereinnahmen von Bund, Ländern und Kommunen in den kommenden Jahren. Diese Zahlen gelten als Grundlage für die Haushaltsplanungen.</description>
+      <link>https://www.ardsounds.de/episode/urn:ard:episode:b13ad3ac0b32258c/</link>
+      <guid isPermaLink="false">urn:ard:publication:b13ad3ac0b32258c</guid>
+      <pubDate>Thu, 22 Oct 2026 17:06:00 +0200</pubDate>
+      <enclosure url="https://ndr-podcast.ard-mcdn.de/progressive/2026/1022/AU-20261022-1742-3300.mp3" length="24799533" type="audio/mpeg" />
+      <itunes:duration>1549</itunes:duration>
+    </item>
     <item>
       <title>UN-Umweltprogramm: Erde steuert auf 2,8 Erwärmung zu</title>
       <description>Die Folgen der Erderwämung sind verheerend. Das eigentlich vereinbarte 1,5-Grad-Limit wird ziemlich sicher gerissen. Damit steigt das Risiko für tödliche Fluten, Hitzewellen und Waldbrände.</description>
