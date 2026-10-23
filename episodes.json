@@ -295,5 +295,14 @@
     "link": "https://www.ardsounds.de/episode/urn:ard:episode:b13ad3ac0b32258c/",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1022/AU-20261022-1742-3300.mp3",
     "length": "24799533"
+  },
+  "urn:ard:publication:dbb691a749fad51f": {
+    "title": "CDU in der Vertrauenskrise",
+    "description": "Bundeskanzler Merz hat viel versprochen: Die Stromsteuer soll sinken, die Schuldenbremse soll eingehalten und das Ende des Bürgergelds soll Milliarden in den Haushalt spülen. Gehalten hat er keines dieser Versprechen. Und das rüttelt am Vertrauen.",
+    "date": "2026-10-23T17:06:00+02:00",
+    "duration": 1442,
+    "link": "https://www.ardsounds.de/episode/urn:ard:episode:dbb691a749fad51f/",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1023/AU-20261023-1732-5600.mp3",
+    "length": "23087277"
   }
 }
