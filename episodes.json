@@ -304,5 +304,14 @@
     "link": "https://www.ardsounds.de/episode/urn:ard:episode:dbb691a749fad51f/",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1023/AU-20261023-1732-5600.mp3",
     "length": "23087277"
+  },
+  "urn:ard:publication:1e5d9b9ee1338e32": {
+    "title": "Richtungswahl: Welchen Kurs schlägt Serbien ein?",
+    "description": "Bei der Parlamentswahl in Serbien wird der bisherige Präsident Vučić mit seiner Partei \"Geeintes Serbien\" von einer Wahlliste der Studenten-Protestbewegung herausgefordert.",
+    "date": "2026-10-25T18:33:00+01:00",
+    "duration": 1556,
+    "link": "https://www.ardsounds.de/episode/urn:ard:episode:1e5d9b9ee1338e32/",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1025/AU-20261025-1902-2400.mp3",
+    "length": "24907821"
   }
 }

@@ -15,7 +15,16 @@
     </image>
     <itunes:image href="https://storki93.github.io/themen-des-tages/cover.jpg" />
     <atom:link href="https://storki93.github.io/themen-des-tages/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 23 Oct 2026 17:06:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 18:33:00 +0100</lastBuildDate>
+    <item>
+      <title>Richtungswahl: Welchen Kurs schlägt Serbien ein?</title>
+      <description>Bei der Parlamentswahl in Serbien wird der bisherige Präsident Vučić mit seiner Partei "Geeintes Serbien" von einer Wahlliste der Studenten-Protestbewegung herausgefordert.</description>
+      <link>https://www.ardsounds.de/episode/urn:ard:episode:1e5d9b9ee1338e32/</link>
+      <guid isPermaLink="false">urn:ard:publication:1e5d9b9ee1338e32</guid>
+      <pubDate>Sun, 25 Oct 2026 18:33:00 +0100</pubDate>
+      <enclosure url="https://ndr-podcast.ard-mcdn.de/progressive/2026/1025/AU-20261025-1902-2400.mp3" length="24907821" type="audio/mpeg" />
+      <itunes:duration>1556</itunes:duration>
+    </item>
     <item>
       <title>CDU in der Vertrauenskrise</title>
       <description>Bundeskanzler Merz hat viel versprochen: Die Stromsteuer soll sinken, die Schuldenbremse soll eingehalten und das Ende des Bürgergelds soll Milliarden in den Haushalt spülen. Gehalten hat er keines dieser Versprechen. Und das rüttelt am Vertrauen.</description>
