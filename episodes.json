@@ -313,5 +313,14 @@
     "link": "https://www.ardsounds.de/episode/urn:ard:episode:1e5d9b9ee1338e32/",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1025/AU-20261025-1902-2400.mp3",
     "length": "24907821"
+  },
+  "urn:ard:publication:6292dc95fa656743": {
+    "title": "Zeitenwende in Serbien",
+    "description": "Serbien hat gewählt - nach fast zwei Jahren Protesten gegen Korruption und Machtmissbrauch. Was bedeutet das Wahlergebnis für das Lager von Staatspräsident Vucic und welchen Kurs schlägt Serbien jetzt ein?",
+    "date": "2026-10-26T17:06:00+01:00",
+    "duration": 1563,
+    "link": "https://www.ardsounds.de/episode/urn:ard:episode:6292dc95fa656743/",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1026/AU-20261026-1734-0300.mp3",
+    "length": "25009965"
   }
 }
