@@ -331,5 +331,14 @@
     "link": "https://www.ardsounds.de/episode/urn:ard:episode:04673f207a59b127/",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1027/AU-20261027-1734-4400.mp3",
     "length": "25137069"
+  },
+  "urn:ard:publication:28359486145d568f": {
+    "title": "Nach der Wahl in Israel",
+    "description": "Israel hat gewählt - doch wer das Land künftig regiert, ist unklar. Der Fahrplan zur Regierungsbildung ist durch Verfassungsfristen streng geregelt.",
+    "date": "2026-10-28T17:05:00+01:00",
+    "duration": 1489,
+    "link": "https://www.ardsounds.de/episode/urn:ard:episode:28359486145d568f/",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1028/AU-20261028-1732-4500.mp3",
+    "length": "23831085"
   }
 }
