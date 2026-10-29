@@ -15,7 +15,16 @@
     </image>
     <itunes:image href="https://storki93.github.io/themen-des-tages/cover.jpg" />
     <atom:link href="https://storki93.github.io/themen-des-tages/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 28 Oct 2026 17:05:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 17:05:00 +0100</lastBuildDate>
+    <item>
+      <title>VW-Krise: Neuer Milliardenverlust</title>
+      <description>Volkswagen hat im dritten Quartal 2026 einen Milliardenverlust gemacht. Das Minus lag nach Steuern bei 5,8 Milliarden Euro,</description>
+      <link>https://www.ardsounds.de/episode/urn:ard:episode:0207ece04a3eb87a/</link>
+      <guid isPermaLink="false">urn:ard:publication:0207ece04a3eb87a</guid>
+      <pubDate>Thu, 29 Oct 2026 17:05:00 +0100</pubDate>
+      <enclosure url="https://ndr-podcast.ard-mcdn.de/progressive/2026/1029/AU-20261029-1732-3800.mp3" length="23957805" type="audio/mpeg" />
+      <itunes:duration>1497</itunes:duration>
+    </item>
     <item>
       <title>Nach der Wahl in Israel</title>
       <description>Israel hat gewählt - doch wer das Land künftig regiert, ist unklar. Der Fahrplan zur Regierungsbildung ist durch Verfassungsfristen streng geregelt.</description>
