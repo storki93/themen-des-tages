@@ -358,5 +358,14 @@
     "link": "https://www.ardsounds.de/episode/urn:ard:episode:4850d9948bcebea3/",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1030/AU-20261030-1734-1700.mp3",
     "length": "24677037"
+  },
+  "urn:ard:publication:612198303addf25a": {
+    "title": "\"Gen-Z\"-Demo: Erste Zwischenfälle in Hamburg",
+    "description": "Bundesweit sind tausende Jugendliche der „Gen Z“ auf die Straße gegangen. Sie fordern mehr Investitionen in die Bildung und lehnen eine Wehrpflicht ab. In Hamburg gab es erste Zwischenfälle.",
+    "date": "2026-10-31T18:33:00+01:00",
+    "duration": 1604,
+    "link": "https://www.ardsounds.de/episode/urn:ard:episode:612198303addf25a/",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1031/AU-20261031-1901-5000.mp3",
+    "length": "25666605"
   }
 }
