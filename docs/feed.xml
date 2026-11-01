@@ -15,7 +15,16 @@
     </image>
     <itunes:image href="https://storki93.github.io/themen-des-tages/cover.jpg" />
     <atom:link href="https://storki93.github.io/themen-des-tages/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 31 Oct 2026 18:33:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 18:33:00 +0100</lastBuildDate>
+    <item>
+      <title>Bilanz nach "Gen Z regelt"-Protesten</title>
+      <description>Nach zunächst friedlichen Demonstrationen der Initiative "Gen Z regelt" ist es auch zu Ausschreitungen gekommen. Dabei kam es zu gewaltsamen Auseinandersetzungen mit der Polizei.</description>
+      <link>https://www.ardsounds.de/episode/urn:ard:episode:9e1434de890be9f4/</link>
+      <guid isPermaLink="false">urn:ard:publication:9e1434de890be9f4</guid>
+      <pubDate>Sun, 01 Nov 2026 18:33:00 +0100</pubDate>
+      <enclosure url="https://ndr-podcast.ard-mcdn.de/progressive/2026/1101/AU-20261101-1902-0700.mp3" length="25575597" type="audio/mpeg" />
+      <itunes:duration>1598</itunes:duration>
+    </item>
     <item>
       <title>"Gen-Z"-Demo: Erste Zwischenfälle in Hamburg</title>
       <description>Bundesweit sind tausende Jugendliche der „Gen Z“ auf die Straße gegangen. Sie fordern mehr Investitionen in die Bildung und lehnen eine Wehrpflicht ab. In Hamburg gab es erste Zwischenfälle.</description>
