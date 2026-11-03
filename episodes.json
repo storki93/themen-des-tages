@@ -385,5 +385,14 @@
     "link": "https://www.ardsounds.de/episode/urn:ard:episode:281fad4b49ca5389/",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1102/AU-20261102-1733-4400.mp3",
     "length": "24626733"
+  },
+  "urn:ard:publication:2d67780ffe719797": {
+    "title": "Midterms in den USA - wird Donald Trump zur lame duck?",
+    "description": "Bei den Zwischenwahlen in den USA steht für Trump viel auf dem Spiel: Verlieren seine Republikaner, könnte das Regieren für ihn komplizierter werden.",
+    "date": "2026-11-03T17:05:00+01:00",
+    "duration": 1489,
+    "link": "https://www.ardsounds.de/episode/urn:ard:episode:2d67780ffe719797/",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1103/AU-20261103-1732-2200.mp3",
+    "length": "23829549"
   }
 }

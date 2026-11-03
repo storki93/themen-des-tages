@@ -15,7 +15,16 @@
     </image>
     <itunes:image href="https://storki93.github.io/themen-des-tages/cover.jpg" />
     <atom:link href="https://storki93.github.io/themen-des-tages/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 02 Nov 2026 17:05:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 17:05:00 +0100</lastBuildDate>
+    <item>
+      <title>Midterms in den USA - wird Donald Trump zur lame duck?</title>
+      <description>Bei den Zwischenwahlen in den USA steht für Trump viel auf dem Spiel: Verlieren seine Republikaner, könnte das Regieren für ihn komplizierter werden.</description>
+      <link>https://www.ardsounds.de/episode/urn:ard:episode:2d67780ffe719797/</link>
+      <guid isPermaLink="false">urn:ard:publication:2d67780ffe719797</guid>
+      <pubDate>Tue, 03 Nov 2026 17:05:00 +0100</pubDate>
+      <enclosure url="https://ndr-podcast.ard-mcdn.de/progressive/2026/1103/AU-20261103-1732-2200.mp3" length="23829549" type="audio/mpeg" />
+      <itunes:duration>1489</itunes:duration>
+    </item>
     <item>
       <title>Digitalgipfel: Wie kann Deutschland bei KI mithalten?</title>
       <description>Die Bundesregierung hat zum Digitalgipfel nach Berlin eingeladen. Bei der zweitägigen Konferenz geht es vor allem um die Frage, wie Deutschland beim Thema Künstliche Intelligenz global mithalten kann.</description>
