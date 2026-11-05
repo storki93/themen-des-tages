@@ -403,5 +403,14 @@
     "link": "https://www.ardsounds.de/episode/urn:ard:episode:c6b103f9d9433bd7/",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1104/AU-20261104-1732-2300.mp3",
     "length": "23675949"
+  },
+  "urn:ard:publication:e6c6e6178352b914": {
+    "title": "Pflegereform im Bundestag beraten",
+    "description": "Der Bundestag hat sich in einer teils emotionalen Debatte mit einer ersten Pflegereform befasst. Die große Strukturreform soll dann im neuen Jahr folgen.",
+    "date": "2026-11-05T17:05:00+01:00",
+    "duration": 1439,
+    "link": "https://www.ardsounds.de/episode/urn:ard:episode:e6c6e6178352b914/",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1105/AU-20261105-1732-2900.mp3",
+    "length": "23024685"
   }
 }
