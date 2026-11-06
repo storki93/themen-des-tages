@@ -15,7 +15,16 @@
     </image>
     <itunes:image href="https://storki93.github.io/themen-des-tages/cover.jpg" />
     <atom:link href="https://storki93.github.io/themen-des-tages/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 05 Nov 2026 17:05:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 17:05:00 +0100</lastBuildDate>
+    <item>
+      <title>1 Tropfen - 5 Jahre: Härtere Strafen für K.O.-Tropfen</title>
+      <description>Der Einsatz von K.O.-Tropfen wird härter bestraft. Der Bundestag hat beschlossen, die Mindesthaftstrafe von drei auf fünf Jahre anzuheben. Täter setzen die Tropfen bei Sexualdelikten ein, um ihre Opfer wehrlos zu machen.</description>
+      <link>https://www.ardsounds.de/episode/urn:ard:episode:c9bc2f7527286272/</link>
+      <guid isPermaLink="false">urn:ard:publication:c9bc2f7527286272</guid>
+      <pubDate>Fri, 06 Nov 2026 17:05:00 +0100</pubDate>
+      <enclosure url="https://ndr-podcast.ard-mcdn.de/progressive/2026/1106/AU-20261106-1731-2700.mp3" length="22833837" type="audio/mpeg" />
+      <itunes:duration>1427</itunes:duration>
+    </item>
     <item>
       <title>Pflegereform im Bundestag beraten</title>
       <description>Der Bundestag hat sich in einer teils emotionalen Debatte mit einer ersten Pflegereform befasst. Die große Strukturreform soll dann im neuen Jahr folgen.</description>

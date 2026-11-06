@@ -412,5 +412,14 @@
     "link": "https://www.ardsounds.de/episode/urn:ard:episode:e6c6e6178352b914/",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1105/AU-20261105-1732-2900.mp3",
     "length": "23024685"
+  },
+  "urn:ard:publication:c9bc2f7527286272": {
+    "title": "1 Tropfen - 5 Jahre: Härtere Strafen für K.O.-Tropfen",
+    "description": "Der Einsatz von K.O.-Tropfen wird härter bestraft. Der Bundestag hat beschlossen, die Mindesthaftstrafe von drei auf fünf Jahre anzuheben. Täter setzen die Tropfen bei Sexualdelikten ein, um ihre Opfer wehrlos zu machen.",
+    "date": "2026-11-06T17:05:00+01:00",
+    "duration": 1427,
+    "link": "https://www.ardsounds.de/episode/urn:ard:episode:c9bc2f7527286272/",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1106/AU-20261106-1731-2700.mp3",
+    "length": "22833837"
   }
 }
