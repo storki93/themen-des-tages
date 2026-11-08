@@ -421,5 +421,14 @@
     "link": "https://www.ardsounds.de/episode/urn:ard:episode:c9bc2f7527286272/",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1106/AU-20261106-1731-2700.mp3",
     "length": "22833837"
+  },
+  "urn:ard:publication:34c28908f88a4118": {
+    "title": "Ermittlungen nach dem Terrorakt in Krakau",
+    "description": "Nach den tödlichen Schüssen auf dem Marktplatz im polnischen Krakau wird jetzt wegen einer terroristischen Straftat ermittelt. Dem Tatverdächtigen wird mehrfacher Mord und versuchter Mord vorgeworfen. Das Motiv für die Tat bleibt weiter unklar.",
+    "date": "2026-11-08T18:32:00+01:00",
+    "duration": 1606,
+    "link": "https://www.ardsounds.de/episode/urn:ard:episode:34c28908f88a4118/",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1108/AU-20261108-1901-1000.mp3",
+    "length": "25706925"
   }
 }
