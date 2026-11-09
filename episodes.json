@@ -430,5 +430,14 @@
     "link": "https://www.ardsounds.de/episode/urn:ard:episode:34c28908f88a4118/",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1108/AU-20261108-1901-1000.mp3",
     "length": "25706925"
+  },
+  "urn:ard:publication:5f622a1e5f51f904": {
+    "title": "Ilse Aigner soll erste Bundespräsidentin werden",
+    "description": "Die Themen des Tages mit nationalen und internationalen Nachrichten im Überblick. Heute mit der möglichen neuen Bundespräsidentin Ilse Aigner und der Weltklima-Konferenz in der Türkei.",
+    "date": "2026-11-09T17:05:00+01:00",
+    "duration": 1475,
+    "link": "https://www.ardsounds.de/episode/urn:ard:episode:5f622a1e5f51f904/",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1109/AU-20261109-1731-5800.mp3",
+    "length": "23600685"
   }
 }
