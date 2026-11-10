@@ -439,5 +439,14 @@
     "link": "https://www.ardsounds.de/episode/urn:ard:episode:5f622a1e5f51f904/",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1109/AU-20261109-1731-5800.mp3",
     "length": "23600685"
+  },
+  "urn:ard:publication:201576ffe070be07": {
+    "title": "Lebenslang für den Mord an Fabian",
+    "description": "Ein Jahr nach der Tat fiel heute das Urteil: Lebenslang für Gina H., die laut Gericht den achtjährigen Fabian ermordet hat.",
+    "date": "2026-11-10T17:05:00+01:00",
+    "duration": 1495,
+    "link": "https://www.ardsounds.de/episode/urn:ard:episode:201576ffe070be07/",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1110/AU-20261110-1844-3100.mp3",
+    "length": "23925933"
   }
 }
