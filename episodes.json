@@ -448,5 +448,14 @@
     "link": "https://www.ardsounds.de/episode/urn:ard:episode:201576ffe070be07/",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1110/AU-20261110-1844-3100.mp3",
     "length": "23925933"
+  },
+  "urn:ard:publication:f7277f9cad48a13e": {
+    "title": "Sexualisierter Missbrauch: Bundeswehr legt Dunkelfeldstudie vor",
+    "description": "Die Bundeswehr hat das Fehlverhalten in ihren Reihen untersucht und zahlreiche Fälle gefunden. Dabei wird jedoch nur ein Bruchteil bei offiziellen Stellen gemeldet.",
+    "date": "2026-11-11T17:06:00+01:00",
+    "duration": 1497,
+    "link": "https://www.ardsounds.de/episode/urn:ard:episode:f7277f9cad48a13e/",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1111/AU-20261111-1733-1400.mp3",
+    "length": "23955885"
   }
 }

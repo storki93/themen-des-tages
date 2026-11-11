@@ -15,7 +15,16 @@
     </image>
     <itunes:image href="https://storki93.github.io/themen-des-tages/cover.jpg" />
     <atom:link href="https://storki93.github.io/themen-des-tages/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 10 Nov 2026 17:05:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 17:06:00 +0100</lastBuildDate>
+    <item>
+      <title>Sexualisierter Missbrauch: Bundeswehr legt Dunkelfeldstudie vor</title>
+      <description>Die Bundeswehr hat das Fehlverhalten in ihren Reihen untersucht und zahlreiche Fälle gefunden. Dabei wird jedoch nur ein Bruchteil bei offiziellen Stellen gemeldet.</description>
+      <link>https://www.ardsounds.de/episode/urn:ard:episode:f7277f9cad48a13e/</link>
+      <guid isPermaLink="false">urn:ard:publication:f7277f9cad48a13e</guid>
+      <pubDate>Wed, 11 Nov 2026 17:06:00 +0100</pubDate>
+      <enclosure url="https://ndr-podcast.ard-mcdn.de/progressive/2026/1111/AU-20261111-1733-1400.mp3" length="23955885" type="audio/mpeg" />
+      <itunes:duration>1497</itunes:duration>
+    </item>
     <item>
       <title>Lebenslang für den Mord an Fabian</title>
       <description>Ein Jahr nach der Tat fiel heute das Urteil: Lebenslang für Gina H., die laut Gericht den achtjährigen Fabian ermordet hat.</description>
