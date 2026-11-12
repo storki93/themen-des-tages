@@ -457,5 +457,14 @@
     "link": "https://www.ardsounds.de/episode/urn:ard:episode:f7277f9cad48a13e/",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1111/AU-20261111-1733-1400.mp3",
     "length": "23955885"
+  },
+  "urn:ard:publication:a357f7d88fd08d23": {
+    "title": "Haushaltsausschuss hat Etat 2027 festgelegt",
+    "description": "Nach langen Verhandlungen hat sich die Koalition auf Kompromisse im Haushalt für 2027 geeinigt. Einige geplante Steuererhöhungen und Sozialkürzungen werden zurückgenommen.",
+    "date": "2026-11-12T17:06:00+01:00",
+    "duration": 1546,
+    "link": "https://www.ardsounds.de/episode/urn:ard:episode:a357f7d88fd08d23/",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1112/AU-20261112-1734-2300.mp3",
+    "length": "24744237"
   }
 }

@@ -15,7 +15,16 @@
     </image>
     <itunes:image href="https://storki93.github.io/themen-des-tages/cover.jpg" />
     <atom:link href="https://storki93.github.io/themen-des-tages/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 11 Nov 2026 17:06:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 17:06:00 +0100</lastBuildDate>
+    <item>
+      <title>Haushaltsausschuss hat Etat 2027 festgelegt</title>
+      <description>Nach langen Verhandlungen hat sich die Koalition auf Kompromisse im Haushalt für 2027 geeinigt. Einige geplante Steuererhöhungen und Sozialkürzungen werden zurückgenommen.</description>
+      <link>https://www.ardsounds.de/episode/urn:ard:episode:a357f7d88fd08d23/</link>
+      <guid isPermaLink="false">urn:ard:publication:a357f7d88fd08d23</guid>
+      <pubDate>Thu, 12 Nov 2026 17:06:00 +0100</pubDate>
+      <enclosure url="https://ndr-podcast.ard-mcdn.de/progressive/2026/1112/AU-20261112-1734-2300.mp3" length="24744237" type="audio/mpeg" />
+      <itunes:duration>1546</itunes:duration>
+    </item>
     <item>
       <title>Sexualisierter Missbrauch: Bundeswehr legt Dunkelfeldstudie vor</title>
       <description>Die Bundeswehr hat das Fehlverhalten in ihren Reihen untersucht und zahlreiche Fälle gefunden. Dabei wird jedoch nur ein Bruchteil bei offiziellen Stellen gemeldet.</description>
