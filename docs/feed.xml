@@ -15,7 +15,16 @@
     </image>
     <itunes:image href="https://storki93.github.io/themen-des-tages/cover.jpg" />
     <atom:link href="https://storki93.github.io/themen-des-tages/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 12 Nov 2026 17:06:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 17:05:00 +0100</lastBuildDate>
+    <item>
+      <title>Reform der Nachrichtendienste</title>
+      <description>Sie sollen mehr Befugnisse erhalten. Bundesinnenminister Alexander Dobrindt (CSU) spricht von einem "Jahrhundertwerk" - andere von einem "Monster".</description>
+      <link>https://www.ardsounds.de/episode/urn:ard:episode:93fd372325b941f9/</link>
+      <guid isPermaLink="false">urn:ard:publication:93fd372325b941f9</guid>
+      <pubDate>Fri, 13 Nov 2026 17:05:00 +0100</pubDate>
+      <enclosure url="https://ndr-podcast.ard-mcdn.de/progressive/2026/1113/AU-20261113-1732-2200.mp3" length="24300717" type="audio/mpeg" />
+      <itunes:duration>1518</itunes:duration>
+    </item>
     <item>
       <title>Haushaltsausschuss hat Etat 2027 festgelegt</title>
       <description>Nach langen Verhandlungen hat sich die Koalition auf Kompromisse im Haushalt für 2027 geeinigt. Einige geplante Steuererhöhungen und Sozialkürzungen werden zurückgenommen.</description>

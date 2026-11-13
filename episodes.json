@@ -466,5 +466,14 @@
     "link": "https://www.ardsounds.de/episode/urn:ard:episode:a357f7d88fd08d23/",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1112/AU-20261112-1734-2300.mp3",
     "length": "24744237"
+  },
+  "urn:ard:publication:93fd372325b941f9": {
+    "title": "Reform der Nachrichtendienste",
+    "description": "Sie sollen mehr Befugnisse erhalten. Bundesinnenminister Alexander Dobrindt (CSU) spricht von einem \"Jahrhundertwerk\" - andere von einem \"Monster\".",
+    "date": "2026-11-13T17:05:00+01:00",
+    "duration": 1518,
+    "link": "https://www.ardsounds.de/episode/urn:ard:episode:93fd372325b941f9/",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1113/AU-20261113-1732-2200.mp3",
+    "length": "24300717"
   }
 }
