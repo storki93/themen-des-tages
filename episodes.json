@@ -493,5 +493,14 @@
     "link": "https://www.ardsounds.de/episode/urn:ard:episode:5b03d230293fa06c/",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1116/AU-20261116-1732-1600.mp3",
     "length": "24509229"
+  },
+  "urn:ard:publication:591dcbdaa8df286c": {
+    "title": "Koalitionsausschuss: Merz erwartet Einigung zur Stromsteuer",
+    "description": "Die Bundesregierung will die Stromsteuer senken - bislang war jedoch unklar, wie das gegenfinanziert werden soll. Jetzt gibt es offenbar eine Möglichkeit: Merz zeigte sich sicher, dass sich SPD und Union nun einigen.",
+    "date": "2026-11-17T17:05:00+01:00",
+    "duration": 1523,
+    "link": "https://www.ardsounds.de/episode/urn:ard:episode:591dcbdaa8df286c/",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1117/AU-20261117-1732-0500.mp3",
+    "length": "24382509"
   }
 }

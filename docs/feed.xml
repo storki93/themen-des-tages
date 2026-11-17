@@ -15,7 +15,16 @@
     </image>
     <itunes:image href="https://storki93.github.io/themen-des-tages/cover.jpg" />
     <atom:link href="https://storki93.github.io/themen-des-tages/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 16 Nov 2026 17:05:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 17:05:00 +0100</lastBuildDate>
+    <item>
+      <title>Koalitionsausschuss: Merz erwartet Einigung zur Stromsteuer</title>
+      <description>Die Bundesregierung will die Stromsteuer senken - bislang war jedoch unklar, wie das gegenfinanziert werden soll. Jetzt gibt es offenbar eine Möglichkeit: Merz zeigte sich sicher, dass sich SPD und Union nun einigen.</description>
+      <link>https://www.ardsounds.de/episode/urn:ard:episode:591dcbdaa8df286c/</link>
+      <guid isPermaLink="false">urn:ard:publication:591dcbdaa8df286c</guid>
+      <pubDate>Tue, 17 Nov 2026 17:05:00 +0100</pubDate>
+      <enclosure url="https://ndr-podcast.ard-mcdn.de/progressive/2026/1117/AU-20261117-1732-0500.mp3" length="24382509" type="audio/mpeg" />
+      <itunes:duration>1523</itunes:duration>
+    </item>
     <item>
       <title>Schwesig zur Ministerpräsidentin in MV gewählt</title>
       <description>Die SPD-Politikerin erhielt im ersten Wahlgang 39 von 68 abgegebenen Stimmen - so viele, wie ihre Koalition aus SPD, Linken und Grünen Abgeordnete hat.</description>
