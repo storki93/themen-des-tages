@@ -15,7 +15,16 @@
     </image>
     <itunes:image href="https://storki93.github.io/themen-des-tages/cover.jpg" />
     <atom:link href="https://storki93.github.io/themen-des-tages/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 17 Nov 2026 17:05:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 17:06:00 +0100</lastBuildDate>
+    <item>
+      <title>Viel Enttäuschung nach dem Koalitionsgipfel</title>
+      <description>Acht Stunden lang, bis tief in die Nacht hinein, saßen die Spitzen von Union und SPD im Kanzleramt zusammen. Doch die Ergebnisse sind dürftig. Einigungen gab es lediglich bei der Stromsteuer und dem Spritpreisdeckel.</description>
+      <link>https://www.ardsounds.de/episode/urn:ard:episode:0ade4aee1fe1ded6/</link>
+      <guid isPermaLink="false">urn:ard:publication:0ade4aee1fe1ded6</guid>
+      <pubDate>Wed, 18 Nov 2026 17:06:00 +0100</pubDate>
+      <enclosure url="https://ndr-podcast.ard-mcdn.de/progressive/2026/1118/AU-20261118-1731-4200.mp3" length="23357997" type="audio/mpeg" />
+      <itunes:duration>1459</itunes:duration>
+    </item>
     <item>
       <title>Koalitionsausschuss: Merz erwartet Einigung zur Stromsteuer</title>
       <description>Die Bundesregierung will die Stromsteuer senken - bislang war jedoch unklar, wie das gegenfinanziert werden soll. Jetzt gibt es offenbar eine Möglichkeit: Merz zeigte sich sicher, dass sich SPD und Union nun einigen.</description>

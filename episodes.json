@@ -502,5 +502,14 @@
     "link": "https://www.ardsounds.de/episode/urn:ard:episode:591dcbdaa8df286c/",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1117/AU-20261117-1732-0500.mp3",
     "length": "24382509"
+  },
+  "urn:ard:publication:0ade4aee1fe1ded6": {
+    "title": "Viel Enttäuschung nach dem Koalitionsgipfel",
+    "description": "Acht Stunden lang, bis tief in die Nacht hinein, saßen die Spitzen von Union und SPD im Kanzleramt zusammen. Doch die Ergebnisse sind dürftig. Einigungen gab es lediglich bei der Stromsteuer und dem Spritpreisdeckel.",
+    "date": "2026-11-18T17:06:00+01:00",
+    "duration": 1459,
+    "link": "https://www.ardsounds.de/episode/urn:ard:episode:0ade4aee1fe1ded6/",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1118/AU-20261118-1731-4200.mp3",
+    "length": "23357997"
   }
 }
