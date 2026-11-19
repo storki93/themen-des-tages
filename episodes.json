@@ -511,5 +511,14 @@
     "link": "https://www.ardsounds.de/episode/urn:ard:episode:0ade4aee1fe1ded6/",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1118/AU-20261118-1731-4200.mp3",
     "length": "23357997"
+  },
+  "urn:ard:publication:981e743a939d0fda": {
+    "title": "Jalta reloaded: Xi empfängt Trump und Putin",
+    "description": "Am Ende der Gespräche steht eine kurze, vier Punkte umfassende politische\nAbsichtserklärung. Über die Ukraine wurde nicht gesprochen.",
+    "date": "2026-11-19T17:05:00+01:00",
+    "duration": 1500,
+    "link": "https://www.ardsounds.de/episode/urn:ard:episode:981e743a939d0fda/",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1119/AU-20261119-1732-1700.mp3",
+    "length": "24005805"
   }
 }
