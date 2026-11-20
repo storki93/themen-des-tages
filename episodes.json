@@ -520,5 +520,14 @@
     "link": "https://www.ardsounds.de/episode/urn:ard:episode:981e743a939d0fda/",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1119/AU-20261119-1732-1700.mp3",
     "length": "24005805"
+  },
+  "urn:ard:publication:057250b9238989dd": {
+    "title": "Gen Z Proteste",
+    "description": "Heute demonstrieren erneut junge Menschen unter dem Motto \"Gen Z regelt\" auch für ein bezahlbares Leben.",
+    "date": "2026-11-20T17:05:00+01:00",
+    "duration": 1521,
+    "link": "https://www.ardsounds.de/episode/urn:ard:episode:057250b9238989dd/",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1120/AU-20261120-1732-3900.mp3",
+    "length": "24346797"
   }
 }
