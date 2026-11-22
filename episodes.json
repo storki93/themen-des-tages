@@ -529,5 +529,14 @@
     "link": "https://www.ardsounds.de/episode/urn:ard:episode:057250b9238989dd/",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1120/AU-20261120-1732-3900.mp3",
     "length": "24346797"
+  },
+  "urn:ard:publication:a2037086ffdc5993": {
+    "title": "COP31 in Antalya: Keine Einigung auf Abschlusserklärung",
+    "description": "Die Weltklimakonferenz ist gescheitert, die Teilnehmer haben sich nicht auf eine gemeinsame Abschlusserklärung geeinigt.",
+    "date": "2026-11-22T18:32:00+01:00",
+    "duration": 1608,
+    "link": "https://www.ardsounds.de/episode/urn:ard:episode:a2037086ffdc5993/",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1122/AU-20261122-1901-4600.mp3",
+    "length": "25733421"
   }
 }
