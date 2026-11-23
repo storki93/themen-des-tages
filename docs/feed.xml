@@ -15,7 +15,16 @@
     </image>
     <itunes:image href="https://storki93.github.io/themen-des-tages/cover.jpg" />
     <atom:link href="https://storki93.github.io/themen-des-tages/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 22 Nov 2026 18:32:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 17:05:00 +0100</lastBuildDate>
+    <item>
+      <title>Gefahr per Satellit: Russland will Atomwaffen ins All bringen</title>
+      <description>Geheimdienste gehen nach Recherchen von WDR, NDR und SZ davon aus, dass Russland noch in diesem Jahr einen Satelliten mit einem Atomsprengkopf in den Weltraum bringen will.</description>
+      <link>https://www.ardsounds.de/episode/urn:ard:episode:e29297b9b0598e4d/</link>
+      <guid isPermaLink="false">urn:ard:publication:e29297b9b0598e4d</guid>
+      <pubDate>Mon, 23 Nov 2026 17:05:00 +0100</pubDate>
+      <enclosure url="https://ndr-podcast.ard-mcdn.de/progressive/2026/1123/AU-20261123-1731-0000.mp3" length="22198317" type="audio/mpeg" />
+      <itunes:duration>1387</itunes:duration>
+    </item>
     <item>
       <title>COP31 in Antalya: Keine Einigung auf Abschlusserklärung</title>
       <description>Die Weltklimakonferenz ist gescheitert, die Teilnehmer haben sich nicht auf eine gemeinsame Abschlusserklärung geeinigt.</description>
