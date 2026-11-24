@@ -547,5 +547,14 @@
     "link": "https://www.ardsounds.de/episode/urn:ard:episode:e29297b9b0598e4d/",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1123/AU-20261123-1731-0000.mp3",
     "length": "22198317"
+  },
+  "urn:ard:publication:fc01620e5501445d": {
+    "title": "VW-Tarifverhandlungen in Emden",
+    "description": "In der tiefsten Krise der VW-Geschichte starten die Tarifverhandlungen für 120.000 Beschäftigte. Die IG Metall wehrt sich gegen drohende Kürzungen.",
+    "date": "2026-11-24T17:06:00+01:00",
+    "duration": 1518,
+    "link": "https://www.ardsounds.de/episode/urn:ard:episode:fc01620e5501445d/",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1124/AU-20261124-1732-3800.mp3",
+    "length": "24288813"
   }
 }
