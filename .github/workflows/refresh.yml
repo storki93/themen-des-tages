@@ -20,6 +20,8 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
@@ -27,16 +29,61 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
       - name: Refresh episodes
+        continue-on-error: true
         env:
           FEED_URL: ${{ steps.pages.outputs.base_url }}/feed.xml
         run: python generate_feed.py
+      - name: Refresh Hora 14 Canarias
+        continue-on-error: true
+        run: |
+          python - <<'PY'
+          import json,re,urllib.request,xml.etree.ElementTree as E
+          from datetime import datetime
+          from email.utils import format_datetime,parsedate_to_datetime
+          from pathlib import Path
+          with urllib.request.urlopen('https://fapi-top.prisasd.com/podcast/playser/hora_14_canarias.xml',timeout=45) as response:
+              episodes=json.load(response)['data']
+          ns='http://www.itunes.com/dtds/podcast-1.0.dtd'
+          E.register_namespace('itunes',ns)
+          r=E.Element('rss',version='2.0')
+          c=E.SubElement(r,'channel')
+          def put(e,k,v): E.SubElement(e,k).text=str(v)
+          page='https://cadenaser.com/podcast/radio-club-tenerife/hora-14-canarias/2338/'
+          for k,v in dict(title='Hora 14 Canarias',link=page,description='Informativo de Canarias de Cadena SER.',language='es-es').items(): put(c,k,v)
+          E.SubElement(c,f'{{{ns}}}image',href='https://sdmedia.playser.cadenaser.com/playser/image/20249/05/1725531917666_771.png')
+          p=Path('docs/hora-14-canarias.xml')
+          items={i.findtext('guid'):i for i in E.parse(p).findall('channel/item')} if p.exists() else {}
+          count=0
+          for a in episodes:
+              title=a.get('rss_title') or ''
+              if not re.fullmatch(r'Hora 14 (?:Fin de semana )?Canarias \(\d{2}/\d{2}/\d{4}\)',title,re.I): continue
+              asset=next((b for b in a.get('asset',[]) if b.get('mimetype') in ('audio/mp3','audio/mpeg') and b.get('size') and b.get('url')),None)
+              if not asset: continue
+              i=E.Element('item')
+              guid='cadena-ser:'+str(a['id'])
+              for k,v in dict(title=title,link=page,description=title,pubDate=format_datetime(datetime.fromisoformat(a['publication_date_start']))).items(): put(i,k,v)
+              E.SubElement(i,'guid',isPermaLink='false').text=guid
+              E.SubElement(i,'enclosure',url=asset['url'][0]['url'],length=str(asset['size']),type='audio/mpeg')
+              items[guid]=i
+              count+=1
+          if not count: raise ValueError('No complete episodes found')
+          c.extend(sorted(items.values(),key=lambda i:parsedate_to_datetime(i.findtext('pubDate')),reverse=True))
+          E.indent(r)
+          tmp=p.with_suffix('.tmp')
+          E.ElementTree(r).write(tmp,encoding='utf-8',xml_declaration=True)
+          tmp.replace(p)
+          print(len(items),c.find('item/title').text)
+          PY
       - name: Retain episode history
         run: |
           git config user.name "podcast-feed-bot"
           git config user.email "podcast-feed-bot@users.noreply.github.com"
           git add episodes.json docs/feed.xml
+          if [ -f docs/hora-14-canarias.xml ]; then
+            git add docs/hora-14-canarias.xml
+          fi
           if ! git diff --cached --quiet; then
-            git commit -m "Refresh Themen des Tages episodes"
+            git commit -m "Refresh podcast episodes"
             git push
           fi
       - uses: actions/upload-pages-artifact@v4
