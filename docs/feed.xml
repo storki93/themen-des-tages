@@ -15,7 +15,16 @@
     </image>
     <itunes:image href="https://storki93.github.io/themen-des-tages/cover.jpg" />
     <atom:link href="https://storki93.github.io/themen-des-tages/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 24 Nov 2026 17:06:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 17:06:00 +0100</lastBuildDate>
+    <item>
+      <title>Generaldebatte im Bundestag: Kritik am Haushalt</title>
+      <description>Die Aufstellung des Haushalts habe "keinen Schönheitspreis verdient“, räumte der Kanzler ein. Doch er sei in der gegenwärtigen Lage vertretbar.</description>
+      <link>https://www.ardsounds.de/episode/urn:ard:episode:76570ec0dce47a6c/</link>
+      <guid isPermaLink="false">urn:ard:publication:76570ec0dce47a6c</guid>
+      <pubDate>Wed, 25 Nov 2026 17:06:00 +0100</pubDate>
+      <enclosure url="https://ndr-podcast.ard-mcdn.de/progressive/2026/1125/AU-20261125-1732-2900.mp3" length="24018477" type="audio/mpeg" />
+      <itunes:duration>1501</itunes:duration>
+    </item>
     <item>
       <title>VW-Tarifverhandlungen in Emden</title>
       <description>In der tiefsten Krise der VW-Geschichte starten die Tarifverhandlungen für 120.000 Beschäftigte. Die IG Metall wehrt sich gegen drohende Kürzungen.</description>

@@ -556,5 +556,14 @@
     "link": "https://www.ardsounds.de/episode/urn:ard:episode:fc01620e5501445d/",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1124/AU-20261124-1732-3800.mp3",
     "length": "24288813"
+  },
+  "urn:ard:publication:76570ec0dce47a6c": {
+    "title": "Generaldebatte im Bundestag: Kritik am Haushalt",
+    "description": "Die Aufstellung des Haushalts habe \"keinen Schönheitspreis verdient“, räumte der Kanzler ein. Doch er sei in der gegenwärtigen Lage vertretbar.",
+    "date": "2026-11-25T17:06:00+01:00",
+    "duration": 1501,
+    "link": "https://www.ardsounds.de/episode/urn:ard:episode:76570ec0dce47a6c/",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1125/AU-20261125-1732-2900.mp3",
+    "length": "24018477"
   }
 }
