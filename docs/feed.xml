@@ -15,7 +15,16 @@
     </image>
     <itunes:image href="https://storki93.github.io/themen-des-tages/cover.jpg" />
     <atom:link href="https://storki93.github.io/themen-des-tages/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 26 Nov 2026 17:05:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 17:05:00 +0100</lastBuildDate>
+    <item>
+      <title>Bundestag beschließt nach langem Ringen Haushalt für 2027</title>
+      <description>Es ist einer der wichtigsten Parlamentsbeschlüsse, bei dem es diesmal aber bis zuletzt ziemlich ruckelte: Der Bundesetat für 2027 ist besiegelt - mit der zweithöchsten Neuverschuldung in der Geschichte Deutschlands.</description>
+      <link>https://www.ardsounds.de/episode/urn:ard:episode:4bab82328878eb85/</link>
+      <guid isPermaLink="false">urn:ard:publication:4bab82328878eb85</guid>
+      <pubDate>Fri, 27 Nov 2026 17:05:00 +0100</pubDate>
+      <enclosure url="https://ndr-podcast.ard-mcdn.de/progressive/2026/1127/AU-20261127-1731-2400.mp3" length="23647533" type="audio/mpeg" />
+      <itunes:duration>1477</itunes:duration>
+    </item>
     <item>
       <title>EU-Sondergipfel in Brüssel</title>
       <description>Auf einem Sondergipfel in Brüssel beraten die 27 EU-Länder heute über den Haushalt für die Jahre 2028 bis 2034. Zudem soll auf dem EU-Gipfel über die Finanzierung neuer Ukraine-Hilfen gesprochen werden.</description>

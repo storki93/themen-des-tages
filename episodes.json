@@ -574,5 +574,14 @@
     "link": "https://www.ardsounds.de/episode/urn:ard:episode:5a5438b5f944067f/",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1126/AU-20261126-1733-4300.mp3",
     "length": "24362157"
+  },
+  "urn:ard:publication:4bab82328878eb85": {
+    "title": "Bundestag beschließt nach langem Ringen Haushalt für 2027",
+    "description": "Es ist einer der wichtigsten Parlamentsbeschlüsse, bei dem es diesmal aber bis zuletzt ziemlich ruckelte: Der Bundesetat für 2027 ist besiegelt - mit der zweithöchsten Neuverschuldung in der Geschichte Deutschlands.",
+    "date": "2026-11-27T17:05:00+01:00",
+    "duration": 1477,
+    "link": "https://www.ardsounds.de/episode/urn:ard:episode:4bab82328878eb85/",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1127/AU-20261127-1731-2400.mp3",
+    "length": "23647533"
   }
 }
